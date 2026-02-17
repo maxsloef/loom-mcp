@@ -1,6 +1,6 @@
 # loom MCP Server
 
-loom for claude :)
+loom for claude :) tweet thread with examples: https://x.com/maxsloef/status/1863537426343555406
 
 this is a TypeScript-based MCP server that implements a simple loom and makes it available for Claude to use. this loom uses the following settings:
 
